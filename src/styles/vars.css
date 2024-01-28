@@ -1,0 +1,38 @@
+:root {
+    /* Font */
+    --font-dm-sans: "DM Sans", sans-serif;
+
+    /* Colors */
+    --black: #000;
+    --white: #fff;
+    --subscribe-icon: #a7a7a7;
+    --bg-icon: #131313;
+    --bg-arrow-color: rgba(0,0,07)
+    --sidebar-bg-color: #121212;
+    --sidebar-font-color: #b3b3b3;
+    --section-playlist-color: #242424;
+
+    /* border-radius */
+    --border-radius-sm: 0.5rem;
+    --border-radius-xl: 1.25rem;
+    --border-radius-2_5: 2.5rem;
+
+    /* border-size */
+    --hairline-border-size: 1px;
+
+    /* spacing */
+    --xs-spacing: 0.25rem;
+    --sm-spacing: 0.5rem;
+    --625-spacing: 0.625rem;
+    --75-spacing: 0.75rem;
+    --md-spacing: 0.875rem;
+    --lg-spacing: 1rem;
+    --xl-spacing: 1.25rem;
+    --xxl-spacing: 1.5rem;
+
+    /* font-size */
+    --xs-font-size: 0.625rem;
+    --sm-font-size: 0.75rem;
+    --default-font-size: 0.875rem;
+    --1rem: 1rem;
+}
